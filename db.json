@@ -1,0 +1,28 @@
+{
+  "id": [
+    {
+      "recordId": "00000000-0000-0000-0000-000000000001",
+      "batchId": "00000000-0000-0000-0000-000000000002",
+      "startDate": "2023-10-10",
+      "endDate": "2023-10-15",
+      "volumeProduced": 150.5,
+      "qualityMetrics": {
+        "pureza": 98.5,
+        "densidad": 1.02,
+        "temperatura": 25.3
+      }
+    },
+    {
+      "recordId": "00000000-0000-0000-0000-000000000003",
+      "batchId": "00000000-0000-0000-0000-000000000004",
+      "startDate": "2023-10-20",
+      "endDate": "2023-10-25",
+      "volumeProduced": 200.0,
+      "qualityMetrics": {
+        "pureza": 99.1,
+        "densidad": 1.03,
+        "temperatura": 24.8
+      }
+    }
+  ]
+}
