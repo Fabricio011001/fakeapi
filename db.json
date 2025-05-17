@@ -23,6 +23,42 @@
         "densidad": 1.03,
         "temperatura": 24.8
       }
+    },
+    {
+      "recordId": "00000000-0000-0000-0000-000000000005",
+      "batchId": "00000000-0000-0000-0000-000000000006",
+      "startDate": "2023-11-01",
+      "endDate": "2023-11-06",
+      "volumeProduced": 180.2,
+      "qualityMetrics": {
+        "pureza": 97.9,
+        "densidad": 1.01,
+        "temperatura": 25.1
+      }
+    },
+    {
+      "recordId": "00000000-0000-0000-0000-000000000007",
+      "batchId": "00000000-0000-0000-0000-000000000008",
+      "startDate": "2023-11-10",
+      "endDate": "2023-11-15",
+      "volumeProduced": 210.0,
+      "qualityMetrics": {
+        "pureza": 98.8,
+        "densidad": 1.04,
+        "temperatura": 24.5
+      }
+    },
+    {
+      "recordId": "00000000-0000-0000-0000-000000000009",
+      "batchId": "00000000-0000-0000-0000-000000000010",
+      "startDate": "2023-11-20",
+      "endDate": "2023-11-25",
+      "volumeProduced": 190.7,
+      "qualityMetrics": {
+        "pureza": 99.3,
+        "densidad": 1.02,
+        "temperatura": 24.9
+      }
     }
   ]
 }
