@@ -6,11 +6,9 @@
       "startDate": "2023-10-10",
       "endDate": "2023-10-15",
       "volumeProduced": 150.5,
-      "qualityMetrics": {
-        "pureza": 98.5,
-        "densidad": 1.02,
-        "temperatura": 25.3
-      }
+      "brix": 98.5,
+      "ph": 1.02,
+      "temperature": 25.3
     },
     {
       "recordId": "00000000-0000-0000-0000-000000000003",
@@ -18,11 +16,9 @@
       "startDate": "2023-10-20",
       "endDate": "2023-10-25",
       "volumeProduced": 200.0,
-      "qualityMetrics": {
-        "pureza": 99.1,
-        "densidad": 1.03,
-        "temperatura": 24.8
-      }
+      "brix": 99.1,
+      "ph": 1.03,
+      "temperature": 24.8
     },
     {
       "recordId": "00000000-0000-0000-0000-000000000005",
@@ -30,11 +26,9 @@
       "startDate": "2023-11-01",
       "endDate": "2023-11-06",
       "volumeProduced": 180.2,
-      "qualityMetrics": {
-        "pureza": 97.9,
-        "densidad": 1.01,
-        "temperatura": 25.1
-      }
+      "brix": 97.9,
+      "ph": 1.01,
+      "temperature": 25.1
     },
     {
       "recordId": "00000000-0000-0000-0000-000000000007",
@@ -42,11 +36,9 @@
       "startDate": "2023-11-10",
       "endDate": "2023-11-15",
       "volumeProduced": 210.0,
-      "qualityMetrics": {
-        "pureza": 98.8,
-        "densidad": 1.04,
-        "temperatura": 24.5
-      }
+      "brix": 98.8,
+      "ph": 1.04,
+      "temperature": 24.5
     },
     {
       "recordId": "00000000-0000-0000-0000-000000000009",
@@ -54,11 +46,9 @@
       "startDate": "2023-11-20",
       "endDate": "2023-11-25",
       "volumeProduced": 190.7,
-      "qualityMetrics": {
-        "pureza": 99.3,
-        "densidad": 1.02,
-        "temperatura": 24.9
-      }
+      "brix": 99.3,
+      "ph": 1.02,
+      "temperature": 24.9
     }
   ]
 }
